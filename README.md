@@ -9,13 +9,12 @@ Bu repo, Patika Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet REA
 Öncelikle projeyi klonlayın:
 
 ```bash
-git clone https://github.com/halenurincedere/kodluyoruzilkrepo.git
+git clone https://github.com/halenurincedere/kodluyoruzilkrepo.git ```
 
 
 ## Installation
 Öncelikle projeyi klonlayın.
-```
-git clone https://github.com/halenurincedere/kodluyoruzilkrepo.git
+```git clone https://github.com/halenurincedere/kodluyoruzilkrepo.git
 ```
 
 ## Usage
